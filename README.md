@@ -4,4 +4,4 @@
 
 This is a online shopping website like simple UI single page application made with REACT
 
-The final look of this webpage appliaction is attached in .jpg format
+The final look of this webpage appliaction is attached in .png format
